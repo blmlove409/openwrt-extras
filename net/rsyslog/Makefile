@@ -14,7 +14,7 @@ PKG_RELEASE:=1
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://www.rsyslog.com/files/download/rsyslog/
 PKG_MD5SUM:=9862b08fd8d13753c13d7f9d86ec8f4e
-PKG_MAINTAINER:=TODO <TODO@example.com>
+PKG_MAINTAINER:=Dov Murik <dmurik@us.ibm.com>
 
 PKG_LICENSE:=GPL-3.0
 PKG_LICENSE_FILES:=COPYING

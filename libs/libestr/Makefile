@@ -15,7 +15,7 @@ PKG_SOURCE_URL:=http://libestr.adiscon.com/files/download/
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_MD5SUM:=f4c9165a23587e77f7efe65d676d5e8e
 
-PKG_MAINTAINER:=TODO <TODO@example.com>
+PKG_MAINTAINER:=Dov Murik <dmurik@us.ibm.com>
 PKG_LICENSE:=LGPL-2.1+
 PKG_LICENSE_FILE:=COPYING
 
